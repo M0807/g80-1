@@ -26,14 +26,6 @@ class App extends React.Component{
   }
 
   render() {
-    const onClick = () => {
-      this.setState({isRegistered: !this.state.isRegistered })
-    }
-    const onDelete = (id) => {
-      console.log(id)
-      const data1 = this.state.data.filter((value)=> value.id !== id)
-      this.setState({data: data1})
-    }
     return (
       <div className="con">
         <table border="1">
