@@ -16,11 +16,6 @@ class App extends React.Component{
   { id: 1, name: "Dilshod", status: 'front end'},
   { id: 2, name: "Sardor", status: 'front end'},
   { id: 3, name: "Sardor", status: 'front end'},
-  { id: 4, name: "Azizbek", status: 'front end'},
-  { id: 5, name: "Sardor", status: 'front end'},
-  { id: 6, name: "Humoyin", status: 'front end'},
-  { id: 7, name: "Sardor", status: 'front end'},
-  { id: 8, name: "Elmurod", status: 'front end'},
 ]
     }
   }
