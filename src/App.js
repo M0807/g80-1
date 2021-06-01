@@ -23,6 +23,7 @@ class App extends React.Component{
   render() {
     return (
       <div className="con">
+        <h1>Bekzod</h1>
         <table border="1">
           <thead>
           <tr>
